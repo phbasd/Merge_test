@@ -1,2 +1,6 @@
 HUMAN1
+<<<<<<< HEAD
 HUMAN02
+=======
+test01
+>>>>>>> human
